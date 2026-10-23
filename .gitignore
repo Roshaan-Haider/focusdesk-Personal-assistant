@@ -1,0 +1,7 @@
+﻿venv/
+data/
+backups/
+exports/
+logs/
+__pycache__/
+*.pyc
